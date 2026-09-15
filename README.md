@@ -123,7 +123,10 @@ plt.show()
 
 ## Output
 
+
 ### Original Image
+<img width="389" height="409" alt="download" src="https://github.com/user-attachments/assets/97c838b8-de3d-46f3-8fd1-0a1f8605910a" />
+<img width="389" height="409" alt="download" src="https://github.com/user-attachments/assets/892729c3-3bf8-46e2-83e0-9804afcc2ac7" />
 
 * The input image is displayed.
 * The image serves as the source for morphological processing.
